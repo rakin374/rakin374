@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptography, blockchains, and data science
 - 🌱 I’m currently getting my BA in Computer Science at Boston University
 - 💞️ I’m looking to collaborate on open-source code that involves cryptography, randomness, data science, or blockchains
-- 📫 How to reach me: email me at rakin 374 (at) bu (dot) edu
+- 📫 How to reach me: email me at rakin374 (at) bu (dot) edu
 
 <!---
 rakin374/rakin374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
