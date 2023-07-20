@@ -4,7 +4,8 @@
 - 👨🏽‍🎨 I love to design and create, and I love doing it in just about anything!
 - 🤠 Its the Wild West! Take a look around and reach out to me if something catches your eye.
 
-Twitter & Instagram & LinkedIn: rakinmunim
+twitter & instagram & linkedIn: rakinmunim
+email: rakin374@gmail.com 
 
 <!---
 rakin374/rakin374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
