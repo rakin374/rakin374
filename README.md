@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @rakin374
-- 👀 I’m interested in info sec, databases, and web3
+- 👋 Hi, my name is Rakin Munim
+- 👨🏽‍🎓 I just graduated from Boston University (May 23')
+- 👀 I’m looking for a job right now in the greater NYC area or Remote
+- 👨🏽‍🎨 I love to design and create, and I love doing it in just about anything!
 
 <!---
 rakin374/rakin374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
