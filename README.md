@@ -1,9 +1,6 @@
 - 👋 Hi, my name is Rakin Munim
-- 👨🏽‍🎓 I just graduated from Boston University (May 23')
-- 👀 I’m looking for a job right now in the greater NYC area or Remote
-- 👨🏽‍🎨 I love to design and create, and I love doing it in just about anything!
-- 🤠 Its the Wild West! Take a look around and reach out to me if something catches your eye.
-- twitter & instagram & linkedIn: rakinmunim
+- 👨🏽‍🎓 I studied computer science at Boston University
+- linkedIn: rakinmunim
 - email: rakin374@gmail.com 
 
 <!---
