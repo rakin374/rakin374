@@ -1,9 +1,6 @@
 👋 Hi, my name is Rakin Munim
 
-Welcome to my GitHub! Feel free to hop around and examine some of the software systems I have worked on. 
-
-I am a young individual interested in learning about our reality. I have studied computer science formally but am also interested in physics. I love thinking about what's possible in this universe(it seems limitless). Additionally, I have recently begun studying the humanities more often dabbling in subjects like art history and music.
-
+I am a computer science graduate with interests in security and AI. Currently, I am working on a few projects that dabble in computer vision and information preservation. 
 
 
 - linkedIn: rakinmunim
