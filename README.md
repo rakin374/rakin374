@@ -1,4 +1,4 @@
-Software Engineer. 
+hi 
 
 <!---
 rakin374/rakin374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
